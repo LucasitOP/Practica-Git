@@ -1,0 +1,3 @@
+Alumno: Lucas Timoc
+Usuario GitHub: LucasitOP
+Repositorio práctica 5:https://github.com/LucasitOP/Practica-Git.git
